@@ -6,6 +6,8 @@ A aplicação Gitfind permite visualizar informações como nome, biografia, fot
 
 Aplicação desenvolvida com auxílio da Formação React Developer, proporcionada pela Digital Innovation One.
 
+<img src="./.github/Gitfind.png" />
+
 ## - Tecnologias e Conceitos utilizados -
 
 -   ReactJS;
