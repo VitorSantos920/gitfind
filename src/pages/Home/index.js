@@ -22,7 +22,6 @@ function App() {
             const newRepos = await reposData.json();
 
             if (newRepos.length) {
-                console.log(newRepos);
                 setRepos(newRepos);
             }
         }
