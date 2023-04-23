@@ -42,7 +42,7 @@ function App() {
                             placeholder="@username"
                         />
 
-                        <button onClick={handleGetData}>Buscas</button>
+                        <button onClick={handleGetData}>Buscar</button>
                     </div>
 
                     {currentUser?.name ? (
